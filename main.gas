@@ -1,0 +1,13 @@
+// -*- mode:js2; coding:utf-8 -*-
+function main() {
+  
+}
+
+function onOpen () {
+  SpreadsheetApp.getUi()
+    .createMenu("Do Button")
+    .addItem("エクスポートを即時実行する", "")
+    .addItem("設定を変更する", "")
+    .addItem("トリガを設定しなおす", "")
+    .addToUi();
+}

@@ -9,4 +9,4 @@ IFTTTのDo Buttonの自由度が低くて使いづらいので、Do ButtonでGoo
 # FAQ
 聞かれたら答える
 # TODO
-[ ] 作る
+- [ ] 作る
